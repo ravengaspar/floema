@@ -1,0 +1,3 @@
+/*! For license information please see main.0fb2d64bce136ad8f1c1.hot-update.js.LICENSE.txt */
+"use strict";self.webpackHotUpdateimmersive_website("main",{"./app/index.js":(e,i,s)=>{s.r(i)}},(function(e){e.h=()=>"753ecf811526f05657cd"}));
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi4wZmIyZDY0YmNlMTM2YWQ4ZjFjMS5ob3QtdXBkYXRlLmpzIiwibWFwcGluZ3MiOiI7NkdBQUFBLEVBQW9CQyxFQUFJLElBQU0iLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9pbW1lcnNpdmUtd2Vic2l0ZS93ZWJwYWNrL3J1bnRpbWUvZ2V0RnVsbEhhc2giXSwic291cmNlc0NvbnRlbnQiOlsiX193ZWJwYWNrX3JlcXVpcmVfXy5oID0gKCkgPT4gKFwiNzUzZWNmODExNTI2ZjA1NjU3Y2RcIikiXSwibmFtZXMiOlsiX193ZWJwYWNrX3JlcXVpcmVfXyIsImgiXSwic291cmNlUm9vdCI6IiJ9

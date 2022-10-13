@@ -1,0 +1,9 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*! classes/Component */
+
+/*! gsap */
+
+/*!*******************************!*\
+  !*** ./app/classes/Button.js ***!
+  \*******************************/

@@ -1,0 +1,13 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*! classes/Component */
+
+/*! utils/color */
+
+/*!****************************!*\
+  !*** ./app/utils/color.js ***!
+  \****************************/
+
+/*!**************************************!*\
+  !*** ./app/components/Navigation.js ***!
+  \**************************************/

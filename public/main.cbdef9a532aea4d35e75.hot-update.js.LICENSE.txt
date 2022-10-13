@@ -1,0 +1,23 @@
+/*! ./About */
+
+/*! ./Collections */
+
+/*! ./Detail */
+
+/*! ./Home */
+
+/*! ./Transition */
+
+/*! ogl */
+
+/*! shaders/plane-fragment.glsl */
+
+/*! shaders/plane-vertex.glsl */
+
+/*!****************************************!*\
+  !*** ./app/components/Canvas/index.js ***!
+  \****************************************/
+
+/*!***********************************************!*\
+  !*** ./app/components/Canvas/Detail/index.js ***!
+  \***********************************************/

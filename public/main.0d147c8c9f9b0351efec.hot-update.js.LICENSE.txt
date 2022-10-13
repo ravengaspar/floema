@@ -1,0 +1,15 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*! classes/Detection */
+
+/*! gsap */
+
+/*! ogl */
+
+/*! shaders/plane-fragment.glsl */
+
+/*! shaders/plane-vertex.glsl */
+
+/*!**********************************************!*\
+  !*** ./app/components/Canvas/About/Media.js ***!
+  \**********************************************/

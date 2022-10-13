@@ -1,0 +1,7 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*! classes/Component */
+
+/*!**********************************!*\
+  !*** ./app/classes/Animation.js ***!
+  \**********************************/

@@ -1,0 +1,9 @@
+/*! gsap */
+
+/*! ogl */
+
+/*! shaders/collections-vertex.glsl */
+
+/*!****************************************************!*\
+  !*** ./app/components/Canvas/Collections/Media.js ***!
+  \****************************************************/

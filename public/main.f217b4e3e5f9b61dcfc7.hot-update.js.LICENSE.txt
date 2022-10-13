@@ -1,0 +1,9 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*! classes/Component */
+
+/*! lodash/each */
+
+/*!*************************************!*\
+  !*** ./app/components/Preloader.js ***!
+  \*************************************/

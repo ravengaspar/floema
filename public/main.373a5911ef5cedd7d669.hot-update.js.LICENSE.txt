@@ -1,0 +1,5 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*!**********************************!*\
+  !*** ./app/classes/Detection.js ***!
+  \**********************************/

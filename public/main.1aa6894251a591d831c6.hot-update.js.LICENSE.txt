@@ -1,0 +1,9 @@
+/*! pages/About/index.js */
+
+/*! pages/Collections/index.js */
+
+/*! pages/Home/index.js */
+
+/*!**********************!*\
+  !*** ./app/index.js ***!
+  \**********************/

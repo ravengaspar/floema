@@ -1,0 +1,9 @@
+/*! classes/Component */
+
+/*! lodash/each */
+
+/*! path-browserify */
+
+/*!*************************************!*\
+  !*** ./app/components/Preloader.js ***!
+  \*************************************/

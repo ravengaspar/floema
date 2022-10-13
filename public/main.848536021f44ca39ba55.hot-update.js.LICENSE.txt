@@ -1,0 +1,11 @@
+/*! ./Media */
+
+/*! ./node_modules/console-browserify/index.js */
+
+/*! gsap */
+
+/*! lodash/map */
+
+/*!************************************************!*\
+  !*** ./app/components/Canvas/About/Gallery.js ***!
+  \************************************************/

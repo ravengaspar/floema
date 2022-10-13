@@ -1,0 +1,17 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*! classes/Animation */
+
+/*! classes/Component */
+
+/*! gsap */
+
+/*! utils/text */
+
+/*!*********************************!*\
+  !*** ./app/animations/Title.js ***!
+  \*********************************/
+
+/*!**********************************!*\
+  !*** ./app/classes/Animation.js ***!
+  \**********************************/

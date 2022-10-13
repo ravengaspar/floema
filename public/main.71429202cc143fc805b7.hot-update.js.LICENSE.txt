@@ -1,0 +1,21 @@
+/*! ./Media */
+
+/*! ./node_modules/console-browserify/index.js */
+
+/*! gsap */
+
+/*! lodash/map */
+
+/*! ogl */
+
+/*! shaders/plane-fragment.glsl */
+
+/*! shaders/plane-vertex.glsl */
+
+/*!****************************************************!*\
+  !*** ./app/components/Canvas/Collections/Media.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./app/components/Canvas/Collections/index.js ***!
+  \****************************************************/

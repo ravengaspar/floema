@@ -1,0 +1,21 @@
+/*! ./node_modules/console-browserify/index.js */
+
+/*! body-parser */
+
+/*! clean-webpack-plugin */
+
+/*! components/Preloader */
+
+/*! lodash/each */
+
+/*! pages/About/index.js */
+
+/*! pages/Collections/index.js */
+
+/*! pages/Detail/index.js */
+
+/*! pages/Home/index.js */
+
+/*!**********************!*\
+  !*** ./app/index.js ***!
+  \**********************/
